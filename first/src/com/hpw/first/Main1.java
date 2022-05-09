@@ -8,5 +8,6 @@ public class Main1 {
     public static void main(String[] args) {
         System.out.println("wocao");
         System.out.println("文明一点好吗？？？");
+        System.out.println("文明不起来啊");
     }
 }
