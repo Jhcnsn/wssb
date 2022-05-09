@@ -9,5 +9,6 @@ public class HotMain {
         System.out.println("wocao");
         System.out.println("文明一点好吗？？？");
         System.out.println("文明不起来啊");
+        System.out.println("加油，你可以的！！！！");
     }
 }
